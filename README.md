@@ -3,7 +3,7 @@
 
 ## Tags used: 
 
-- <html>
+- `<html>`
 - <head>
 - <meta>
 - <title>
